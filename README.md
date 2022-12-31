@@ -6,7 +6,7 @@
 
 ## :page_with_curl: Sobre
 
-O dtmoney é um projeto com a finalidade de um blog contendo posts de assuntos de tecnologia, que podem ser acessados com autenticação pelo Github e assinatura inscrita
+O ignews é um projeto com a finalidade de um blog contendo posts de assuntos de tecnologia, que podem ser acessados com autenticação pelo Github e assinatura inscrita
 
 ## :computer: Projeto
 
@@ -42,7 +42,7 @@ Em seguida, dentro da pasta do projeto, insira o comando abaixo para iniciar a a
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/johnncaastro/dtmoney/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/johnncaastro/ignews/blob/main/license) para mais detalhes.
 
 ---
 
