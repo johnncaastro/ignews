@@ -2,7 +2,7 @@
   ignews
 </h1>
 
-![dtmoney](https://github.com/johnncaastro/dtmoney/blob/main/.github/mockup%20dtmoney.png)
+![ignews](https://github.com/johnncaastro/ignews/blob/main/.github/mockup-ignews.png)
 
 ## :page_with_curl: Sobre
 
