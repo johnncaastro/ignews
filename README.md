@@ -10,7 +10,7 @@ O ignews é um projeto com a finalidade de um blog contendo posts de assuntos de
 
 ## :computer: Projeto
 
-Acesse o projeto clicando [aqui](https://dtmoney-roan.vercel.app/). :+1:
+Acesse o projeto clicando [aqui](https://ignews-three-zeta.vercel.app/). :+1:
 
 ## 🚀 Tecnologias
 
